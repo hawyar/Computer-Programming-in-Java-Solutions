@@ -1,8 +1,8 @@
 /**
  * Write the implementation of the method whose header is shown below. The method
  * returns the units digit of a number. For example, if the number is 156, the
- * methodreturns 6. Use the following header:
- * public int unitsDigit(int number)
+ * method returns 6. Use the following header:
+ * public int unitsDigit(int number) {}
  *
  * @author hawyarfarooq
  */
