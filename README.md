@@ -1,6 +1,5 @@
 # COMPUTER SCIENCE PROGRAMMING IN JAVA 👨‍💻
 
----
 
 Disclamier: This is the unoffical respository. I do not own the book, all rights go to Sabis®
 
@@ -49,7 +48,7 @@ The java files also includes test code to see the ouput and check the results. T
 ```
 
 ## Directory
-At first, the naming convention might seem odd; however, it follows the number of questions in each section. Each set of problems in the book is called a checkpoint, unfortunate there is no number system to represent the checkpoints. Within each chapter, there are several sections with a different number of checkpoints. The naming convention here is c_[the number of checpoint within that section].
+At first, the naming convention might seem odd; however, it follows the number of questions in each section. Each set of problems in the book is called a checkpoint, unfortunately there is no number system to represent the checkpoints. Within each chapter, there are several sections with a different number of checkpoints. The naming convention here is c_[the number of checpoint within that section].
 
 ### Example:
 In chapter 3, section 3.1 checkpoint 4 is solved therefore the java file is called c_4. Here c stands for checkpoint and 4 represents the 4th checkpoint within that section
